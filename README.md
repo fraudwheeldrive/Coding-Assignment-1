@@ -14,6 +14,10 @@ match the new class names. Duplicate CSS code was removed, and the style sheet w
 of the new Semantic HTML layout. Please see attached images, initial breakout of HTML was done via a wire frame 
 mock up. 
 
+![alt text](https://github.com/fraudwheeldrive/Coding-Assignment-1/blob/main/assets/images/Horiseon%20Wireframe.png)
+![alt text](https://github.com/fraudwheeldrive/Coding-Assignment-1/blob/main/assets/images/Horiseon%20Screenshot.png)
+
+
 ##  Built with 
 Horiseon's webiste is built with 
 *HTML
