@@ -23,8 +23,10 @@ Horiseon's webiste is built with
 *HTML
 *CSS
 
-##website 
-placeholder 
+## website 
+https://fraudwheeldrive.github.io/Coding-Assignment-1/
+## Github Repository 
+
 
 ##contribution 
 Refactoring of code completed by Andrew COre 
