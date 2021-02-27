@@ -26,9 +26,9 @@ Horiseon's webiste is built with
 ## website 
 https://fraudwheeldrive.github.io/Coding-Assignment-1/
 ## Github Repository 
+https://github.com/fraudwheeldrive/Coding-Assignment-1.git
 
-
-##contribution 
+## contribution 
 Refactoring of code completed by Andrew COre 
 
 ### © 2019 Horiseon Social Solution Services, Inc.
