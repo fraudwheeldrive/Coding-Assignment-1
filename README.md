@@ -1,6 +1,6 @@
-# Horiseon code Refactor (assignment-1)
+# Horiseon Code Refactor (assignment-1)
 
-## purpose
+## Purpose
 Horiseon is a company that offers Social Media Marketing (SMM) and Search Engine Optizmization (SEO) services. 
 In order to future proof Horiseon's code as well as make it accessable to those who ustilize screen readers
 and other assitive technology, refactoring of the code was needed.
@@ -23,12 +23,12 @@ Horiseon's webiste is built with
 *HTML
 *CSS
 
-## website 
+## Website 
 https://fraudwheeldrive.github.io/Coding-Assignment-1/
 ## Github Repository 
 https://github.com/fraudwheeldrive/Coding-Assignment-1.git
 
-## contribution 
+## Contribution 
 Refactoring of code completed by Andrew COre 
 
 ### © 2019 Horiseon Social Solution Services, Inc.
